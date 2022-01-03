@@ -1,0 +1,26 @@
+{
+  "id": "e5f04655-6be5-4f54-a7c9-00a66aea943e",
+  "name": "BarCode",
+  "publisher": "AMY BarCode",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ScannerApp1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
